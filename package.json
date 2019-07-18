@@ -1,0 +1,14 @@
+{
+  "name": "calculate-distance",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "author": "Monika Mathur",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
